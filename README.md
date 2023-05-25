@@ -12,29 +12,9 @@ No regret and stop trying with what you have chosen.
 # Tech Used
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
       
-# Add More Details:
 
-
-
-### You can add 
-[Links](https://itsvg.in)
- 
-![]([https://img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white](https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/344388988_603890761461491_953385362027185440_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZvyPUGvEU50AX-9SpsD&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfCMi26ky6aQ1nJ-zWt4d0ztm_f_7N9K6Eijfrt7VVqslA&oe=64736A96))
-
-      
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PTienhocSE&theme=dark)](https://git.io/streak-stats)
     
 [![](https://visitcount.itsvg.in/api?id=PTienhocSE&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
 <!--
-**PTienhocSE/PTienhocSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**PTienhocSE/PTienhocSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub
