@@ -14,7 +14,7 @@ Hello! As a first-year student, I have basic experience in the field of software
 # ⏰Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PTienhocSE&theme=dark)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PTienhocSE&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTienhocSE&hide_progress=true)](https://github.com/PTienhocSE/github-readme-stats)\N
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTienhocSE&hide_progress=true)](https://github.com/PTienhocSE/github-readme-stats)
 [![](https://visitcount.itsvg.in/api?id=PTienhocSE&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **PTienhocSE/PTienhocSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub
