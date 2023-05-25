@@ -6,8 +6,10 @@
 # 😊About Me 
 Hello! As a first-year student, I have basic experience in the field of software engineering. I have familiarized myself with HTML, CSS, JavaScript, and also have a basic understanding of C++ and C. I aim to continue learning and developing my skills to become a professional programmer.
 
+
 # 💻Tech Used
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+      
       
 # ⏰Github Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PTienhocSE&theme=dark)](https://git.io/streak-stats)
