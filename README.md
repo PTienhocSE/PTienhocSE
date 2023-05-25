@@ -13,26 +13,15 @@ No regret and stop trying with what you have chosen.
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
       
 # Add More Details:
-Anything else that you want to add for users? You can write it here in markdown and see preview in real time. You can add anything that you want, for example
 
-### You can add How to Setup:
-- Step 1: this is step 1
-- Step 2: do this, do that
 
-### You can add API references
-| Syntax | Description |
-| ----------- | ----------- |
-| AndroidX | Refactored versions of the Android APIs that are not bundled with the operating system. |
-| AndroidX Test | Includes APIs for testing your Android app, including Espresso, JUnit Runner, JUnit4 rules, and UI Automator. |
 
 ### You can add 
 [Links](https://itsvg.in)
  
-![](https://img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white)
-# If you don't want to add this section, just clear all the text written here.
+![]([https://img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white](https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/344388988_603890761461491_953385362027185440_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZvyPUGvEU50AX-9SpsD&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfCMi26ky6aQ1nJ-zWt4d0ztm_f_7N9K6Eijfrt7VVqslA&oe=64736A96))
 
       
-<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
     
 [![](https://visitcount.itsvg.in/api?id=PTienhocSE&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
 <!--
