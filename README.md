@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I am a final-year Software Engineering student at FPT University, specializing in full-stack web development. My passion lies in architecting efficient backend systems and bringing them to life with clean, intuitive frontend interfaces. As a former intern at **FPT Software** and a lead developer on several projects, I thrive in collaborative environments and am dedicated to writing clean, maintainable code that delivers real impact.
+I am a final-year Software Engineering student at FPT University, specializing in full-stack web development. My passion lies in architecting efficient backend systems and bringing them to life with clean, intuitive frontend interfaces. As a former intern at **FPT Software** and a lead developer on several projects in school, I thrive in collaborative environments and am dedicated to writing clean, maintainable code that delivers real impact.
 
 <br>
 
